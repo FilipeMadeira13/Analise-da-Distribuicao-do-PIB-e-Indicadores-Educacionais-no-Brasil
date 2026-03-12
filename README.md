@@ -41,16 +41,6 @@ A análise exploratória dos dados revela alguns padrões relevantes:
 * Regiões Norte e Nordeste apresentam participação menor no PIB nacional.
 * Indicadores educacionais apresentam relação moderada com o desenvolvimento econômico regional.
 
-Esses resultados ajudam a ilustrar desigualdades econômicas regionais e possíveis relações entre educação e desenvolvimento.
-
-## Estrutura do projeto
-
-```
-data/        # Bases de dados utilizadas na análise
-notebook/    # Notebook principal com a análise exploratória
-images/      # Visualizações exportadas
-```
-
 ## Como executar o projeto
 
 Este projeto foi desenvolvido no Google Colab.
@@ -64,7 +54,7 @@ Caso deseje executar localmente:
 1. Clone o repositório
 
 ```
-git clone https://github.com/FilipeMadeira13/Analise-da-Distribui-o-do-PIB-e-Indicadores-Educacionais-no-Brasil
+git clone https://github.com/FilipeMadeira13/Analise-da-Distribuicao-do-PIB-e-Indicadores-Educacionais-no-Brasil
 ```
 
 2. Instale as dependências
